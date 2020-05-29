@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  while time.array.length do
+    array**2
+  end
 end
