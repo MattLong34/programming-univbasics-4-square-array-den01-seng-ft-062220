@@ -10,3 +10,9 @@ end
 array.length.times do |index|
   puts array[index]
 end
+
+count = 0 
+while count < 3 do
+  puts "#{count}"
+  count = count +1 
+end
